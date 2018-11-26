@@ -2,6 +2,13 @@
   "name": "homebridge-clap-sensor",
   "version": "1.0.0",
   "description": "Clap sensor for HomeKit via Homebridge.",
+  "author": "Olof Bokedal <olof.bokedal@oddhill.se>",
+  "homepage": "https://github.com/olofbokedal/homebridge-clap-sensor",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/olofbokedal/homebridge-clap-sensor.git"
+  },
+  "bugs": "https://github.com/olofbokedal/homebridge-clap-sensor/issues",
   "main": "index.js",
   "keywords": [
     "homebridge-plugin",
