@@ -33,7 +33,7 @@ Add the following to the `accessories` part of your Homebridge `settings.json` f
     "clapInterval": 2000,
     "resetAfter": 5000,
     "clapDetectorConfig": {
-        "AUDIO_SOURCE": "hw:1,0",
+        "AUDIO_SOURCE": "alsa hw:1,0",
         "CLAP_AMPLITUDE_THRESHOLD": 0.7,
         "CLAP_ENERGY_THRESHOLD": 0.5
     }
